@@ -7,5 +7,5 @@ ____
 ___
 ## Ineritance and Class graph
 Modifiable version : https://app.creately.com/diagram/FbfFTGvTruM/edit
-![image](https://user-images.githubusercontent.com/79844285/111479966-c567e600-8731-11eb-84b3-f9f662379cc4.png)
 
+![image](https://user-images.githubusercontent.com/79844285/111491274-02d17100-873c-11eb-9c4d-2acee1cef25e.png)

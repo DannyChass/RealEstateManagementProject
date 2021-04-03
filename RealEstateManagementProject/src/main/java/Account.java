@@ -10,4 +10,25 @@
  */
 public class Account {
     
+    double id;
+    String Type;
+    String name;
+    String surname;
+    Date birthdate;
+    
+    
+    public Account(double id, String Type, String name, Date birthdate){
+        this.id=id;
+        this.Type=Type;
+        this.name=name;
+        this.birthday=birthday;
+    }
+    
+    public void modifyProfile(String name, String surname, Date birthdate){
+        
+    }
+    
+    
+    
 }
+ 
